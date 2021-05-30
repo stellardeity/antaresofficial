@@ -5,6 +5,6 @@
 
  📫 How to reach me: 
             @mariantares (telegram)
-            ***
+            <hr>
             antaresofficial@icloud.com 
 
