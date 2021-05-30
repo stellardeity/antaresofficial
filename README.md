@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning redux-saga, jest.
  
  <br />
-***@mariantares*** - telegram
+ https://t.me/mariantares
  <br />
- **antaresofficial@icloud.com***
+ antaresofficial@icloud.com
 
