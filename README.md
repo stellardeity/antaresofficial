@@ -1,1 +1,2 @@
 ![Metrics](https://metrics.lecoq.io/antaresofficial?template=classic&config.timezone=Asia%2FYekaterinburg)
+![Metrics](https://metrics.lecoq.io/antaresofficial?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&followup=1&lines=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FYekaterinburg)
